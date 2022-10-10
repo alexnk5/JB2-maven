@@ -1,1 +1,1 @@
-# JB2-maven
+# Simple project: maven + git +junit
